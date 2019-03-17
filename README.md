@@ -8,7 +8,7 @@ For the past couple years I have been lost. No clue where to turn to to get a so
 
 This project is intended to be just that for once android Q drops. It's for anyone who wants to create their own ROM but has no strong base. 
 
-The Goals for this project are to provide a clean base aosp without deprecated sources and with the extra bug fixes Google does not provide us with. Upon booting CBOSP it should feel very similar to how a nexus 6p booted (without Gapps) 
+The Goals for this project are to provide a clean base aosp without deprecated sources and with the extra bug fixes Google does not provide us with. Upon booting CBOSP it should feel very similar to how a Nexus 6p felt stock.
 
 We will also host a code review site for anyone willing to submit bug fixes and patches.
 
